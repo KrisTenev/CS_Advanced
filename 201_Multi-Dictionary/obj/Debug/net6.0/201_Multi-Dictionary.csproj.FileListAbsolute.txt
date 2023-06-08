@@ -1,0 +1,15 @@
+C:\Users\z003tyad\source\repos\CS_Advance\201_Multi-Dictionary\bin\Debug\net6.0\201_Multi-Dictionary.exe
+C:\Users\z003tyad\source\repos\CS_Advance\201_Multi-Dictionary\bin\Debug\net6.0\201_Multi-Dictionary.deps.json
+C:\Users\z003tyad\source\repos\CS_Advance\201_Multi-Dictionary\bin\Debug\net6.0\201_Multi-Dictionary.runtimeconfig.json
+C:\Users\z003tyad\source\repos\CS_Advance\201_Multi-Dictionary\bin\Debug\net6.0\201_Multi-Dictionary.dll
+C:\Users\z003tyad\source\repos\CS_Advance\201_Multi-Dictionary\bin\Debug\net6.0\201_Multi-Dictionary.pdb
+C:\Users\z003tyad\source\repos\CS_Advance\201_Multi-Dictionary\obj\Debug\net6.0\201_Multi-Dictionary.csproj.AssemblyReference.cache
+C:\Users\z003tyad\source\repos\CS_Advance\201_Multi-Dictionary\obj\Debug\net6.0\201_Multi-Dictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\z003tyad\source\repos\CS_Advance\201_Multi-Dictionary\obj\Debug\net6.0\201_Multi-Dictionary.AssemblyInfoInputs.cache
+C:\Users\z003tyad\source\repos\CS_Advance\201_Multi-Dictionary\obj\Debug\net6.0\201_Multi-Dictionary.AssemblyInfo.cs
+C:\Users\z003tyad\source\repos\CS_Advance\201_Multi-Dictionary\obj\Debug\net6.0\201_Multi-Dictionary.csproj.CoreCompileInputs.cache
+C:\Users\z003tyad\source\repos\CS_Advance\201_Multi-Dictionary\obj\Debug\net6.0\201_Multi-Dictionary.dll
+C:\Users\z003tyad\source\repos\CS_Advance\201_Multi-Dictionary\obj\Debug\net6.0\refint\201_Multi-Dictionary.dll
+C:\Users\z003tyad\source\repos\CS_Advance\201_Multi-Dictionary\obj\Debug\net6.0\201_Multi-Dictionary.pdb
+C:\Users\z003tyad\source\repos\CS_Advance\201_Multi-Dictionary\obj\Debug\net6.0\201_Multi-Dictionary.genruntimeconfig.cache
+C:\Users\z003tyad\source\repos\CS_Advance\201_Multi-Dictionary\obj\Debug\net6.0\ref\201_Multi-Dictionary.dll

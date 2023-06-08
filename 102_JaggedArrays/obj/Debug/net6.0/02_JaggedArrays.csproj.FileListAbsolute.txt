@@ -1,0 +1,15 @@
+C:\Users\z003tyad\source\repos\CS_Advance\JaggedArrays\obj\Debug\net6.0\02_JaggedArrays.csproj.AssemblyReference.cache
+C:\Users\z003tyad\source\repos\CS_Advance\JaggedArrays\obj\Debug\net6.0\02_JaggedArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\z003tyad\source\repos\CS_Advance\JaggedArrays\obj\Debug\net6.0\02_JaggedArrays.AssemblyInfoInputs.cache
+C:\Users\z003tyad\source\repos\CS_Advance\JaggedArrays\obj\Debug\net6.0\02_JaggedArrays.AssemblyInfo.cs
+C:\Users\z003tyad\source\repos\CS_Advance\JaggedArrays\obj\Debug\net6.0\02_JaggedArrays.csproj.CoreCompileInputs.cache
+C:\Users\z003tyad\source\repos\CS_Advance\JaggedArrays\bin\Debug\net6.0\02_JaggedArrays.exe
+C:\Users\z003tyad\source\repos\CS_Advance\JaggedArrays\bin\Debug\net6.0\02_JaggedArrays.deps.json
+C:\Users\z003tyad\source\repos\CS_Advance\JaggedArrays\bin\Debug\net6.0\02_JaggedArrays.runtimeconfig.json
+C:\Users\z003tyad\source\repos\CS_Advance\JaggedArrays\bin\Debug\net6.0\02_JaggedArrays.dll
+C:\Users\z003tyad\source\repos\CS_Advance\JaggedArrays\bin\Debug\net6.0\02_JaggedArrays.pdb
+C:\Users\z003tyad\source\repos\CS_Advance\JaggedArrays\obj\Debug\net6.0\02_JaggedArrays.dll
+C:\Users\z003tyad\source\repos\CS_Advance\JaggedArrays\obj\Debug\net6.0\refint\02_JaggedArrays.dll
+C:\Users\z003tyad\source\repos\CS_Advance\JaggedArrays\obj\Debug\net6.0\02_JaggedArrays.pdb
+C:\Users\z003tyad\source\repos\CS_Advance\JaggedArrays\obj\Debug\net6.0\02_JaggedArrays.genruntimeconfig.cache
+C:\Users\z003tyad\source\repos\CS_Advance\JaggedArrays\obj\Debug\net6.0\ref\02_JaggedArrays.dll

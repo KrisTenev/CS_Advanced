@@ -1,0 +1,15 @@
+C:\Users\z003tyad\source\repos\CS_Advance\SpiralMatrixEx\obj\Debug\net6.0\SpiralMatrixEx.csproj.AssemblyReference.cache
+C:\Users\z003tyad\source\repos\CS_Advance\SpiralMatrixEx\obj\Debug\net6.0\SpiralMatrixEx.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\z003tyad\source\repos\CS_Advance\SpiralMatrixEx\obj\Debug\net6.0\SpiralMatrixEx.AssemblyInfoInputs.cache
+C:\Users\z003tyad\source\repos\CS_Advance\SpiralMatrixEx\obj\Debug\net6.0\SpiralMatrixEx.AssemblyInfo.cs
+C:\Users\z003tyad\source\repos\CS_Advance\SpiralMatrixEx\obj\Debug\net6.0\SpiralMatrixEx.csproj.CoreCompileInputs.cache
+C:\Users\z003tyad\source\repos\CS_Advance\SpiralMatrixEx\bin\Debug\net6.0\SpiralMatrixEx.exe
+C:\Users\z003tyad\source\repos\CS_Advance\SpiralMatrixEx\bin\Debug\net6.0\SpiralMatrixEx.deps.json
+C:\Users\z003tyad\source\repos\CS_Advance\SpiralMatrixEx\bin\Debug\net6.0\SpiralMatrixEx.runtimeconfig.json
+C:\Users\z003tyad\source\repos\CS_Advance\SpiralMatrixEx\bin\Debug\net6.0\SpiralMatrixEx.dll
+C:\Users\z003tyad\source\repos\CS_Advance\SpiralMatrixEx\bin\Debug\net6.0\SpiralMatrixEx.pdb
+C:\Users\z003tyad\source\repos\CS_Advance\SpiralMatrixEx\obj\Debug\net6.0\SpiralMatrixEx.dll
+C:\Users\z003tyad\source\repos\CS_Advance\SpiralMatrixEx\obj\Debug\net6.0\refint\SpiralMatrixEx.dll
+C:\Users\z003tyad\source\repos\CS_Advance\SpiralMatrixEx\obj\Debug\net6.0\SpiralMatrixEx.pdb
+C:\Users\z003tyad\source\repos\CS_Advance\SpiralMatrixEx\obj\Debug\net6.0\SpiralMatrixEx.genruntimeconfig.cache
+C:\Users\z003tyad\source\repos\CS_Advance\SpiralMatrixEx\obj\Debug\net6.0\ref\SpiralMatrixEx.dll

@@ -1,0 +1,15 @@
+C:\Users\z003tyad\source\repos\CS_Advance\Matrics\bin\Debug\net6.0\01_Matrics.exe
+C:\Users\z003tyad\source\repos\CS_Advance\Matrics\bin\Debug\net6.0\01_Matrics.deps.json
+C:\Users\z003tyad\source\repos\CS_Advance\Matrics\bin\Debug\net6.0\01_Matrics.runtimeconfig.json
+C:\Users\z003tyad\source\repos\CS_Advance\Matrics\bin\Debug\net6.0\01_Matrics.dll
+C:\Users\z003tyad\source\repos\CS_Advance\Matrics\bin\Debug\net6.0\01_Matrics.pdb
+C:\Users\z003tyad\source\repos\CS_Advance\Matrics\obj\Debug\net6.0\01_Matrics.csproj.AssemblyReference.cache
+C:\Users\z003tyad\source\repos\CS_Advance\Matrics\obj\Debug\net6.0\01_Matrics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\z003tyad\source\repos\CS_Advance\Matrics\obj\Debug\net6.0\01_Matrics.AssemblyInfoInputs.cache
+C:\Users\z003tyad\source\repos\CS_Advance\Matrics\obj\Debug\net6.0\01_Matrics.AssemblyInfo.cs
+C:\Users\z003tyad\source\repos\CS_Advance\Matrics\obj\Debug\net6.0\01_Matrics.csproj.CoreCompileInputs.cache
+C:\Users\z003tyad\source\repos\CS_Advance\Matrics\obj\Debug\net6.0\01_Matrics.dll
+C:\Users\z003tyad\source\repos\CS_Advance\Matrics\obj\Debug\net6.0\refint\01_Matrics.dll
+C:\Users\z003tyad\source\repos\CS_Advance\Matrics\obj\Debug\net6.0\01_Matrics.pdb
+C:\Users\z003tyad\source\repos\CS_Advance\Matrics\obj\Debug\net6.0\01_Matrics.genruntimeconfig.cache
+C:\Users\z003tyad\source\repos\CS_Advance\Matrics\obj\Debug\net6.0\ref\01_Matrics.dll
