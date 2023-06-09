@@ -1,0 +1,15 @@
+C:\Users\z003tyad\source\repos\KrisTenev\CS_Advanced\402_Students\bin\Debug\net6.0\402_Students.exe
+C:\Users\z003tyad\source\repos\KrisTenev\CS_Advanced\402_Students\bin\Debug\net6.0\402_Students.deps.json
+C:\Users\z003tyad\source\repos\KrisTenev\CS_Advanced\402_Students\bin\Debug\net6.0\402_Students.runtimeconfig.json
+C:\Users\z003tyad\source\repos\KrisTenev\CS_Advanced\402_Students\bin\Debug\net6.0\402_Students.dll
+C:\Users\z003tyad\source\repos\KrisTenev\CS_Advanced\402_Students\bin\Debug\net6.0\402_Students.pdb
+C:\Users\z003tyad\source\repos\KrisTenev\CS_Advanced\402_Students\obj\Debug\net6.0\402_Students.csproj.AssemblyReference.cache
+C:\Users\z003tyad\source\repos\KrisTenev\CS_Advanced\402_Students\obj\Debug\net6.0\402_Students.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\z003tyad\source\repos\KrisTenev\CS_Advanced\402_Students\obj\Debug\net6.0\402_Students.AssemblyInfoInputs.cache
+C:\Users\z003tyad\source\repos\KrisTenev\CS_Advanced\402_Students\obj\Debug\net6.0\402_Students.AssemblyInfo.cs
+C:\Users\z003tyad\source\repos\KrisTenev\CS_Advanced\402_Students\obj\Debug\net6.0\402_Students.csproj.CoreCompileInputs.cache
+C:\Users\z003tyad\source\repos\KrisTenev\CS_Advanced\402_Students\obj\Debug\net6.0\402_Students.dll
+C:\Users\z003tyad\source\repos\KrisTenev\CS_Advanced\402_Students\obj\Debug\net6.0\refint\402_Students.dll
+C:\Users\z003tyad\source\repos\KrisTenev\CS_Advanced\402_Students\obj\Debug\net6.0\402_Students.pdb
+C:\Users\z003tyad\source\repos\KrisTenev\CS_Advanced\402_Students\obj\Debug\net6.0\402_Students.genruntimeconfig.cache
+C:\Users\z003tyad\source\repos\KrisTenev\CS_Advanced\402_Students\obj\Debug\net6.0\ref\402_Students.dll

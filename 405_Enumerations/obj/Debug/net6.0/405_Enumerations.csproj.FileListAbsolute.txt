@@ -1,0 +1,15 @@
+C:\Users\z003tyad\source\repos\KrisTenev\CS_Advanced\405_Enumerations\bin\Debug\net6.0\405_Enumerations.exe
+C:\Users\z003tyad\source\repos\KrisTenev\CS_Advanced\405_Enumerations\bin\Debug\net6.0\405_Enumerations.deps.json
+C:\Users\z003tyad\source\repos\KrisTenev\CS_Advanced\405_Enumerations\bin\Debug\net6.0\405_Enumerations.runtimeconfig.json
+C:\Users\z003tyad\source\repos\KrisTenev\CS_Advanced\405_Enumerations\bin\Debug\net6.0\405_Enumerations.dll
+C:\Users\z003tyad\source\repos\KrisTenev\CS_Advanced\405_Enumerations\bin\Debug\net6.0\405_Enumerations.pdb
+C:\Users\z003tyad\source\repos\KrisTenev\CS_Advanced\405_Enumerations\obj\Debug\net6.0\405_Enumerations.csproj.AssemblyReference.cache
+C:\Users\z003tyad\source\repos\KrisTenev\CS_Advanced\405_Enumerations\obj\Debug\net6.0\405_Enumerations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\z003tyad\source\repos\KrisTenev\CS_Advanced\405_Enumerations\obj\Debug\net6.0\405_Enumerations.AssemblyInfoInputs.cache
+C:\Users\z003tyad\source\repos\KrisTenev\CS_Advanced\405_Enumerations\obj\Debug\net6.0\405_Enumerations.AssemblyInfo.cs
+C:\Users\z003tyad\source\repos\KrisTenev\CS_Advanced\405_Enumerations\obj\Debug\net6.0\405_Enumerations.csproj.CoreCompileInputs.cache
+C:\Users\z003tyad\source\repos\KrisTenev\CS_Advanced\405_Enumerations\obj\Debug\net6.0\405_Enumerations.dll
+C:\Users\z003tyad\source\repos\KrisTenev\CS_Advanced\405_Enumerations\obj\Debug\net6.0\refint\405_Enumerations.dll
+C:\Users\z003tyad\source\repos\KrisTenev\CS_Advanced\405_Enumerations\obj\Debug\net6.0\405_Enumerations.pdb
+C:\Users\z003tyad\source\repos\KrisTenev\CS_Advanced\405_Enumerations\obj\Debug\net6.0\405_Enumerations.genruntimeconfig.cache
+C:\Users\z003tyad\source\repos\KrisTenev\CS_Advanced\405_Enumerations\obj\Debug\net6.0\ref\405_Enumerations.dll

@@ -1,0 +1,15 @@
+C:\Users\z003tyad\source\repos\KrisTenev\CS_Advanced\405_StaticClasses\bin\Debug\net6.0\405_StaticClasses.exe
+C:\Users\z003tyad\source\repos\KrisTenev\CS_Advanced\405_StaticClasses\bin\Debug\net6.0\405_StaticClasses.deps.json
+C:\Users\z003tyad\source\repos\KrisTenev\CS_Advanced\405_StaticClasses\bin\Debug\net6.0\405_StaticClasses.runtimeconfig.json
+C:\Users\z003tyad\source\repos\KrisTenev\CS_Advanced\405_StaticClasses\bin\Debug\net6.0\405_StaticClasses.dll
+C:\Users\z003tyad\source\repos\KrisTenev\CS_Advanced\405_StaticClasses\bin\Debug\net6.0\405_StaticClasses.pdb
+C:\Users\z003tyad\source\repos\KrisTenev\CS_Advanced\405_StaticClasses\obj\Debug\net6.0\405_StaticClasses.csproj.AssemblyReference.cache
+C:\Users\z003tyad\source\repos\KrisTenev\CS_Advanced\405_StaticClasses\obj\Debug\net6.0\405_StaticClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\z003tyad\source\repos\KrisTenev\CS_Advanced\405_StaticClasses\obj\Debug\net6.0\405_StaticClasses.AssemblyInfoInputs.cache
+C:\Users\z003tyad\source\repos\KrisTenev\CS_Advanced\405_StaticClasses\obj\Debug\net6.0\405_StaticClasses.AssemblyInfo.cs
+C:\Users\z003tyad\source\repos\KrisTenev\CS_Advanced\405_StaticClasses\obj\Debug\net6.0\405_StaticClasses.csproj.CoreCompileInputs.cache
+C:\Users\z003tyad\source\repos\KrisTenev\CS_Advanced\405_StaticClasses\obj\Debug\net6.0\405_StaticClasses.dll
+C:\Users\z003tyad\source\repos\KrisTenev\CS_Advanced\405_StaticClasses\obj\Debug\net6.0\refint\405_StaticClasses.dll
+C:\Users\z003tyad\source\repos\KrisTenev\CS_Advanced\405_StaticClasses\obj\Debug\net6.0\405_StaticClasses.pdb
+C:\Users\z003tyad\source\repos\KrisTenev\CS_Advanced\405_StaticClasses\obj\Debug\net6.0\405_StaticClasses.genruntimeconfig.cache
+C:\Users\z003tyad\source\repos\KrisTenev\CS_Advanced\405_StaticClasses\obj\Debug\net6.0\ref\405_StaticClasses.dll

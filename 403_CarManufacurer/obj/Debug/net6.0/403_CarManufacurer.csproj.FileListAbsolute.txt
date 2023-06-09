@@ -1,0 +1,15 @@
+C:\Users\z003tyad\source\repos\KrisTenev\CS_Advanced\403_CarManufacurer\bin\Debug\net6.0\403_CarManufacurer.exe
+C:\Users\z003tyad\source\repos\KrisTenev\CS_Advanced\403_CarManufacurer\bin\Debug\net6.0\403_CarManufacurer.deps.json
+C:\Users\z003tyad\source\repos\KrisTenev\CS_Advanced\403_CarManufacurer\bin\Debug\net6.0\403_CarManufacurer.runtimeconfig.json
+C:\Users\z003tyad\source\repos\KrisTenev\CS_Advanced\403_CarManufacurer\bin\Debug\net6.0\403_CarManufacurer.dll
+C:\Users\z003tyad\source\repos\KrisTenev\CS_Advanced\403_CarManufacurer\bin\Debug\net6.0\403_CarManufacurer.pdb
+C:\Users\z003tyad\source\repos\KrisTenev\CS_Advanced\403_CarManufacurer\obj\Debug\net6.0\403_CarManufacurer.csproj.AssemblyReference.cache
+C:\Users\z003tyad\source\repos\KrisTenev\CS_Advanced\403_CarManufacurer\obj\Debug\net6.0\403_CarManufacurer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\z003tyad\source\repos\KrisTenev\CS_Advanced\403_CarManufacurer\obj\Debug\net6.0\403_CarManufacurer.AssemblyInfoInputs.cache
+C:\Users\z003tyad\source\repos\KrisTenev\CS_Advanced\403_CarManufacurer\obj\Debug\net6.0\403_CarManufacurer.AssemblyInfo.cs
+C:\Users\z003tyad\source\repos\KrisTenev\CS_Advanced\403_CarManufacurer\obj\Debug\net6.0\403_CarManufacurer.csproj.CoreCompileInputs.cache
+C:\Users\z003tyad\source\repos\KrisTenev\CS_Advanced\403_CarManufacurer\obj\Debug\net6.0\403_CarManufacurer.dll
+C:\Users\z003tyad\source\repos\KrisTenev\CS_Advanced\403_CarManufacurer\obj\Debug\net6.0\refint\403_CarManufacurer.dll
+C:\Users\z003tyad\source\repos\KrisTenev\CS_Advanced\403_CarManufacurer\obj\Debug\net6.0\403_CarManufacurer.pdb
+C:\Users\z003tyad\source\repos\KrisTenev\CS_Advanced\403_CarManufacurer\obj\Debug\net6.0\403_CarManufacurer.genruntimeconfig.cache
+C:\Users\z003tyad\source\repos\KrisTenev\CS_Advanced\403_CarManufacurer\obj\Debug\net6.0\ref\403_CarManufacurer.dll
