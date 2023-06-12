@@ -1,0 +1,15 @@
+C:\Users\z003tyad\source\repos\KrisTenev\CS_Advanced\LambdaExpressions\bin\Debug\net6.0\302_LambdaExpressions.exe
+C:\Users\z003tyad\source\repos\KrisTenev\CS_Advanced\LambdaExpressions\bin\Debug\net6.0\302_LambdaExpressions.deps.json
+C:\Users\z003tyad\source\repos\KrisTenev\CS_Advanced\LambdaExpressions\bin\Debug\net6.0\302_LambdaExpressions.runtimeconfig.json
+C:\Users\z003tyad\source\repos\KrisTenev\CS_Advanced\LambdaExpressions\bin\Debug\net6.0\302_LambdaExpressions.dll
+C:\Users\z003tyad\source\repos\KrisTenev\CS_Advanced\LambdaExpressions\bin\Debug\net6.0\302_LambdaExpressions.pdb
+C:\Users\z003tyad\source\repos\KrisTenev\CS_Advanced\LambdaExpressions\obj\Debug\net6.0\302_LambdaExpressions.csproj.AssemblyReference.cache
+C:\Users\z003tyad\source\repos\KrisTenev\CS_Advanced\LambdaExpressions\obj\Debug\net6.0\302_LambdaExpressions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\z003tyad\source\repos\KrisTenev\CS_Advanced\LambdaExpressions\obj\Debug\net6.0\302_LambdaExpressions.AssemblyInfoInputs.cache
+C:\Users\z003tyad\source\repos\KrisTenev\CS_Advanced\LambdaExpressions\obj\Debug\net6.0\302_LambdaExpressions.AssemblyInfo.cs
+C:\Users\z003tyad\source\repos\KrisTenev\CS_Advanced\LambdaExpressions\obj\Debug\net6.0\302_LambdaExpressions.csproj.CoreCompileInputs.cache
+C:\Users\z003tyad\source\repos\KrisTenev\CS_Advanced\LambdaExpressions\obj\Debug\net6.0\302_LambdaExpressions.dll
+C:\Users\z003tyad\source\repos\KrisTenev\CS_Advanced\LambdaExpressions\obj\Debug\net6.0\refint\302_LambdaExpressions.dll
+C:\Users\z003tyad\source\repos\KrisTenev\CS_Advanced\LambdaExpressions\obj\Debug\net6.0\302_LambdaExpressions.pdb
+C:\Users\z003tyad\source\repos\KrisTenev\CS_Advanced\LambdaExpressions\obj\Debug\net6.0\302_LambdaExpressions.genruntimeconfig.cache
+C:\Users\z003tyad\source\repos\KrisTenev\CS_Advanced\LambdaExpressions\obj\Debug\net6.0\ref\302_LambdaExpressions.dll

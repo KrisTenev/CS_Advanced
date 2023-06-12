@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "404_Enumerations/1.0.0": {
+        "runtime": {
+          "404_Enumerations.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "404_Enumerations/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

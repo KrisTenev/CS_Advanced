@@ -1,0 +1,15 @@
+C:\Users\z003tyad\source\repos\KrisTenev\CS_Advanced\303_LinQ\bin\Debug\net6.0\303_LinQ.exe
+C:\Users\z003tyad\source\repos\KrisTenev\CS_Advanced\303_LinQ\bin\Debug\net6.0\303_LinQ.deps.json
+C:\Users\z003tyad\source\repos\KrisTenev\CS_Advanced\303_LinQ\bin\Debug\net6.0\303_LinQ.runtimeconfig.json
+C:\Users\z003tyad\source\repos\KrisTenev\CS_Advanced\303_LinQ\bin\Debug\net6.0\303_LinQ.dll
+C:\Users\z003tyad\source\repos\KrisTenev\CS_Advanced\303_LinQ\bin\Debug\net6.0\303_LinQ.pdb
+C:\Users\z003tyad\source\repos\KrisTenev\CS_Advanced\303_LinQ\obj\Debug\net6.0\303_LinQ.csproj.AssemblyReference.cache
+C:\Users\z003tyad\source\repos\KrisTenev\CS_Advanced\303_LinQ\obj\Debug\net6.0\303_LinQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\z003tyad\source\repos\KrisTenev\CS_Advanced\303_LinQ\obj\Debug\net6.0\303_LinQ.AssemblyInfoInputs.cache
+C:\Users\z003tyad\source\repos\KrisTenev\CS_Advanced\303_LinQ\obj\Debug\net6.0\303_LinQ.AssemblyInfo.cs
+C:\Users\z003tyad\source\repos\KrisTenev\CS_Advanced\303_LinQ\obj\Debug\net6.0\303_LinQ.csproj.CoreCompileInputs.cache
+C:\Users\z003tyad\source\repos\KrisTenev\CS_Advanced\303_LinQ\obj\Debug\net6.0\303_LinQ.dll
+C:\Users\z003tyad\source\repos\KrisTenev\CS_Advanced\303_LinQ\obj\Debug\net6.0\refint\303_LinQ.dll
+C:\Users\z003tyad\source\repos\KrisTenev\CS_Advanced\303_LinQ\obj\Debug\net6.0\303_LinQ.pdb
+C:\Users\z003tyad\source\repos\KrisTenev\CS_Advanced\303_LinQ\obj\Debug\net6.0\303_LinQ.genruntimeconfig.cache
+C:\Users\z003tyad\source\repos\KrisTenev\CS_Advanced\303_LinQ\obj\Debug\net6.0\ref\303_LinQ.dll

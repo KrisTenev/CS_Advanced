@@ -1,0 +1,15 @@
+C:\Users\z003tyad\source\repos\KrisTenev\CS_Advanced\301_FunctionalProgramming\bin\Debug\net6.0\301_FunctionalProgramming.exe
+C:\Users\z003tyad\source\repos\KrisTenev\CS_Advanced\301_FunctionalProgramming\bin\Debug\net6.0\301_FunctionalProgramming.deps.json
+C:\Users\z003tyad\source\repos\KrisTenev\CS_Advanced\301_FunctionalProgramming\bin\Debug\net6.0\301_FunctionalProgramming.runtimeconfig.json
+C:\Users\z003tyad\source\repos\KrisTenev\CS_Advanced\301_FunctionalProgramming\bin\Debug\net6.0\301_FunctionalProgramming.dll
+C:\Users\z003tyad\source\repos\KrisTenev\CS_Advanced\301_FunctionalProgramming\bin\Debug\net6.0\301_FunctionalProgramming.pdb
+C:\Users\z003tyad\source\repos\KrisTenev\CS_Advanced\301_FunctionalProgramming\obj\Debug\net6.0\301_FunctionalProgramming.csproj.AssemblyReference.cache
+C:\Users\z003tyad\source\repos\KrisTenev\CS_Advanced\301_FunctionalProgramming\obj\Debug\net6.0\301_FunctionalProgramming.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\z003tyad\source\repos\KrisTenev\CS_Advanced\301_FunctionalProgramming\obj\Debug\net6.0\301_FunctionalProgramming.AssemblyInfoInputs.cache
+C:\Users\z003tyad\source\repos\KrisTenev\CS_Advanced\301_FunctionalProgramming\obj\Debug\net6.0\301_FunctionalProgramming.AssemblyInfo.cs
+C:\Users\z003tyad\source\repos\KrisTenev\CS_Advanced\301_FunctionalProgramming\obj\Debug\net6.0\301_FunctionalProgramming.csproj.CoreCompileInputs.cache
+C:\Users\z003tyad\source\repos\KrisTenev\CS_Advanced\301_FunctionalProgramming\obj\Debug\net6.0\301_FunctionalProgramming.dll
+C:\Users\z003tyad\source\repos\KrisTenev\CS_Advanced\301_FunctionalProgramming\obj\Debug\net6.0\refint\301_FunctionalProgramming.dll
+C:\Users\z003tyad\source\repos\KrisTenev\CS_Advanced\301_FunctionalProgramming\obj\Debug\net6.0\301_FunctionalProgramming.pdb
+C:\Users\z003tyad\source\repos\KrisTenev\CS_Advanced\301_FunctionalProgramming\obj\Debug\net6.0\301_FunctionalProgramming.genruntimeconfig.cache
+C:\Users\z003tyad\source\repos\KrisTenev\CS_Advanced\301_FunctionalProgramming\obj\Debug\net6.0\ref\301_FunctionalProgramming.dll
