@@ -1,0 +1,15 @@
+C:\Users\z003tyad\source\repos\KrisTenev\CS_Advanced\304_Select\bin\Debug\net6.0\304_SortEvenNumber.exe
+C:\Users\z003tyad\source\repos\KrisTenev\CS_Advanced\304_Select\bin\Debug\net6.0\304_SortEvenNumber.deps.json
+C:\Users\z003tyad\source\repos\KrisTenev\CS_Advanced\304_Select\bin\Debug\net6.0\304_SortEvenNumber.runtimeconfig.json
+C:\Users\z003tyad\source\repos\KrisTenev\CS_Advanced\304_Select\bin\Debug\net6.0\304_SortEvenNumber.dll
+C:\Users\z003tyad\source\repos\KrisTenev\CS_Advanced\304_Select\bin\Debug\net6.0\304_SortEvenNumber.pdb
+C:\Users\z003tyad\source\repos\KrisTenev\CS_Advanced\304_Select\obj\Debug\net6.0\304_SortEvenNumber.csproj.AssemblyReference.cache
+C:\Users\z003tyad\source\repos\KrisTenev\CS_Advanced\304_Select\obj\Debug\net6.0\304_SortEvenNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\z003tyad\source\repos\KrisTenev\CS_Advanced\304_Select\obj\Debug\net6.0\304_SortEvenNumber.AssemblyInfoInputs.cache
+C:\Users\z003tyad\source\repos\KrisTenev\CS_Advanced\304_Select\obj\Debug\net6.0\304_SortEvenNumber.AssemblyInfo.cs
+C:\Users\z003tyad\source\repos\KrisTenev\CS_Advanced\304_Select\obj\Debug\net6.0\304_SortEvenNumber.csproj.CoreCompileInputs.cache
+C:\Users\z003tyad\source\repos\KrisTenev\CS_Advanced\304_Select\obj\Debug\net6.0\304_SortEvenNumber.dll
+C:\Users\z003tyad\source\repos\KrisTenev\CS_Advanced\304_Select\obj\Debug\net6.0\refint\304_SortEvenNumber.dll
+C:\Users\z003tyad\source\repos\KrisTenev\CS_Advanced\304_Select\obj\Debug\net6.0\304_SortEvenNumber.pdb
+C:\Users\z003tyad\source\repos\KrisTenev\CS_Advanced\304_Select\obj\Debug\net6.0\304_SortEvenNumber.genruntimeconfig.cache
+C:\Users\z003tyad\source\repos\KrisTenev\CS_Advanced\304_Select\obj\Debug\net6.0\ref\304_SortEvenNumber.dll

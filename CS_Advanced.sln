@@ -19,21 +19,21 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyHashFunction", "204_MyHas
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "401_Classes", "401_Classes\401_Classes.csproj", "{041328A7-2AC8-4609-A9B6-B38E30FE327C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "402_Students", "402_Students\402_Students.csproj", "{680C10AC-889F-43BD-8920-24A0ED7FF713}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "402_Students", "402_Students\402_Students.csproj", "{680C10AC-889F-43BD-8920-24A0ED7FF713}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "403_CarManufacurer", "403_CarManufacurer\403_CarManufacurer.csproj", "{4B305AE6-0AB1-43AF-8065-380F3D6F66A0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "403_CarManufacurer", "403_CarManufacurer\403_CarManufacurer.csproj", "{4B305AE6-0AB1-43AF-8065-380F3D6F66A0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "404_Enumerations", "405_Enumerations\404_Enumerations.csproj", "{1B7A54A5-5A5B-4F69-BA84-36807E3D1777}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "404_Enumerations", "405_Enumerations\404_Enumerations.csproj", "{1B7A54A5-5A5B-4F69-BA84-36807E3D1777}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "405_StaticClasses", "405_StaticClasses\405_StaticClasses.csproj", "{4F1AE4DC-6547-4DF1-8A7E-B89499B9DB27}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "405_StaticClasses", "405_StaticClasses\405_StaticClasses.csproj", "{4F1AE4DC-6547-4DF1-8A7E-B89499B9DB27}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "413_BMWManufacturer", "414_BMWManufacturer\413_BMWManufacturer.csproj", "{EAB62A8C-196F-41CA-B123-1DD21EDDC5FB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "413_BMWManufacturer", "414_BMWManufacturer\413_BMWManufacturer.csproj", "{EAB62A8C-196F-41CA-B123-1DD21EDDC5FB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "301_FunctionalProgramming", "301_FunctionalProgramming\301_FunctionalProgramming.csproj", "{BF3A34A3-8524-451C-8587-30B84A04D2A3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "301_FunctionalProgramming", "301_FunctionalProgramming\301_FunctionalProgramming.csproj", "{BF3A34A3-8524-451C-8587-30B84A04D2A3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "302_LambdaExpressions", "LambdaExpressions\302_LambdaExpressions.csproj", "{A709B037-CD6F-4A63-8FCF-959F933E8FD7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "302_LambdaExpressions", "LambdaExpressions\302_LambdaExpressions.csproj", "{A709B037-CD6F-4A63-8FCF-959F933E8FD7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "303_LinQ", "303_LinQ\303_LinQ.csproj", "{D3A2783E-5BE3-404F-9C2A-861D915ADED7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "303_LinQ", "303_LinQ\303_LinQ.csproj", "{D3A2783E-5BE3-404F-9C2A-861D915ADED7}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "100_Matrics", "100_Matrics", "{10056482-F915-49C5-BEBA-D17633257086}"
 EndProject
@@ -42,6 +42,8 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "300_FuncProgramming", "300_FuncProgramming", "{B1186621-8629-429F-B072-CB0076FEAFCE}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "400_Classes", "400_Classes", "{42C3A1A5-E4CA-4147-AFBD-EF7E20EFC7E5}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "304_SortEvenNumber", "304_Select\304_SortEvenNumber.csproj", "{F4A54FBE-1282-4D14-81D0-62EE19B1B335}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -113,6 +115,10 @@ Global
 		{D3A2783E-5BE3-404F-9C2A-861D915ADED7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D3A2783E-5BE3-404F-9C2A-861D915ADED7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D3A2783E-5BE3-404F-9C2A-861D915ADED7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F4A54FBE-1282-4D14-81D0-62EE19B1B335}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4A54FBE-1282-4D14-81D0-62EE19B1B335}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4A54FBE-1282-4D14-81D0-62EE19B1B335}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4A54FBE-1282-4D14-81D0-62EE19B1B335}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -134,6 +140,7 @@ Global
 		{BF3A34A3-8524-451C-8587-30B84A04D2A3} = {B1186621-8629-429F-B072-CB0076FEAFCE}
 		{A709B037-CD6F-4A63-8FCF-959F933E8FD7} = {B1186621-8629-429F-B072-CB0076FEAFCE}
 		{D3A2783E-5BE3-404F-9C2A-861D915ADED7} = {B1186621-8629-429F-B072-CB0076FEAFCE}
+		{F4A54FBE-1282-4D14-81D0-62EE19B1B335} = {B1186621-8629-429F-B072-CB0076FEAFCE}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {D9DFC13E-A3D2-4805-8425-4AD1A88B925D}

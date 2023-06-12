@@ -1,0 +1,15 @@
+C:\Users\z003tyad\source\repos\KrisTenev\CS_Advanced\304_Select\bin\Debug\net6.0\304_Select.exe
+C:\Users\z003tyad\source\repos\KrisTenev\CS_Advanced\304_Select\bin\Debug\net6.0\304_Select.deps.json
+C:\Users\z003tyad\source\repos\KrisTenev\CS_Advanced\304_Select\bin\Debug\net6.0\304_Select.runtimeconfig.json
+C:\Users\z003tyad\source\repos\KrisTenev\CS_Advanced\304_Select\bin\Debug\net6.0\304_Select.dll
+C:\Users\z003tyad\source\repos\KrisTenev\CS_Advanced\304_Select\bin\Debug\net6.0\304_Select.pdb
+C:\Users\z003tyad\source\repos\KrisTenev\CS_Advanced\304_Select\obj\Debug\net6.0\304_Select.csproj.AssemblyReference.cache
+C:\Users\z003tyad\source\repos\KrisTenev\CS_Advanced\304_Select\obj\Debug\net6.0\304_Select.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\z003tyad\source\repos\KrisTenev\CS_Advanced\304_Select\obj\Debug\net6.0\304_Select.AssemblyInfoInputs.cache
+C:\Users\z003tyad\source\repos\KrisTenev\CS_Advanced\304_Select\obj\Debug\net6.0\304_Select.AssemblyInfo.cs
+C:\Users\z003tyad\source\repos\KrisTenev\CS_Advanced\304_Select\obj\Debug\net6.0\304_Select.csproj.CoreCompileInputs.cache
+C:\Users\z003tyad\source\repos\KrisTenev\CS_Advanced\304_Select\obj\Debug\net6.0\304_Select.dll
+C:\Users\z003tyad\source\repos\KrisTenev\CS_Advanced\304_Select\obj\Debug\net6.0\refint\304_Select.dll
+C:\Users\z003tyad\source\repos\KrisTenev\CS_Advanced\304_Select\obj\Debug\net6.0\304_Select.pdb
+C:\Users\z003tyad\source\repos\KrisTenev\CS_Advanced\304_Select\obj\Debug\net6.0\304_Select.genruntimeconfig.cache
+C:\Users\z003tyad\source\repos\KrisTenev\CS_Advanced\304_Select\obj\Debug\net6.0\ref\304_Select.dll
