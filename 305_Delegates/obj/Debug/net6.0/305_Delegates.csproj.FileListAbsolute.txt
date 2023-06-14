@@ -1,0 +1,15 @@
+C:\Users\z003tyad\source\repos\KrisTenev\CS_Advanced\305_Delegates\bin\Debug\net6.0\305_Delegates.exe
+C:\Users\z003tyad\source\repos\KrisTenev\CS_Advanced\305_Delegates\bin\Debug\net6.0\305_Delegates.deps.json
+C:\Users\z003tyad\source\repos\KrisTenev\CS_Advanced\305_Delegates\bin\Debug\net6.0\305_Delegates.runtimeconfig.json
+C:\Users\z003tyad\source\repos\KrisTenev\CS_Advanced\305_Delegates\bin\Debug\net6.0\305_Delegates.dll
+C:\Users\z003tyad\source\repos\KrisTenev\CS_Advanced\305_Delegates\bin\Debug\net6.0\305_Delegates.pdb
+C:\Users\z003tyad\source\repos\KrisTenev\CS_Advanced\305_Delegates\obj\Debug\net6.0\305_Delegates.csproj.AssemblyReference.cache
+C:\Users\z003tyad\source\repos\KrisTenev\CS_Advanced\305_Delegates\obj\Debug\net6.0\305_Delegates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\z003tyad\source\repos\KrisTenev\CS_Advanced\305_Delegates\obj\Debug\net6.0\305_Delegates.AssemblyInfoInputs.cache
+C:\Users\z003tyad\source\repos\KrisTenev\CS_Advanced\305_Delegates\obj\Debug\net6.0\305_Delegates.AssemblyInfo.cs
+C:\Users\z003tyad\source\repos\KrisTenev\CS_Advanced\305_Delegates\obj\Debug\net6.0\305_Delegates.csproj.CoreCompileInputs.cache
+C:\Users\z003tyad\source\repos\KrisTenev\CS_Advanced\305_Delegates\obj\Debug\net6.0\305_Delegates.dll
+C:\Users\z003tyad\source\repos\KrisTenev\CS_Advanced\305_Delegates\obj\Debug\net6.0\refint\305_Delegates.dll
+C:\Users\z003tyad\source\repos\KrisTenev\CS_Advanced\305_Delegates\obj\Debug\net6.0\305_Delegates.pdb
+C:\Users\z003tyad\source\repos\KrisTenev\CS_Advanced\305_Delegates\obj\Debug\net6.0\305_Delegates.genruntimeconfig.cache
+C:\Users\z003tyad\source\repos\KrisTenev\CS_Advanced\305_Delegates\obj\Debug\net6.0\ref\305_Delegates.dll

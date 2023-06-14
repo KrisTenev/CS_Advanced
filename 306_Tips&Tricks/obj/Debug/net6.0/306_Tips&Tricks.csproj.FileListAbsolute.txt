@@ -1,0 +1,15 @@
+C:\Users\z003tyad\source\repos\KrisTenev\CS_Advanced\306_Tips&Tricks\bin\Debug\net6.0\306_Tips&Tricks.exe
+C:\Users\z003tyad\source\repos\KrisTenev\CS_Advanced\306_Tips&Tricks\bin\Debug\net6.0\306_Tips&Tricks.deps.json
+C:\Users\z003tyad\source\repos\KrisTenev\CS_Advanced\306_Tips&Tricks\bin\Debug\net6.0\306_Tips&Tricks.runtimeconfig.json
+C:\Users\z003tyad\source\repos\KrisTenev\CS_Advanced\306_Tips&Tricks\bin\Debug\net6.0\306_Tips&Tricks.dll
+C:\Users\z003tyad\source\repos\KrisTenev\CS_Advanced\306_Tips&Tricks\bin\Debug\net6.0\306_Tips&Tricks.pdb
+C:\Users\z003tyad\source\repos\KrisTenev\CS_Advanced\306_Tips&Tricks\obj\Debug\net6.0\306_Tips&Tricks.csproj.AssemblyReference.cache
+C:\Users\z003tyad\source\repos\KrisTenev\CS_Advanced\306_Tips&Tricks\obj\Debug\net6.0\306_Tips&Tricks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\z003tyad\source\repos\KrisTenev\CS_Advanced\306_Tips&Tricks\obj\Debug\net6.0\306_Tips&Tricks.AssemblyInfoInputs.cache
+C:\Users\z003tyad\source\repos\KrisTenev\CS_Advanced\306_Tips&Tricks\obj\Debug\net6.0\306_Tips&Tricks.AssemblyInfo.cs
+C:\Users\z003tyad\source\repos\KrisTenev\CS_Advanced\306_Tips&Tricks\obj\Debug\net6.0\306_Tips&Tricks.csproj.CoreCompileInputs.cache
+C:\Users\z003tyad\source\repos\KrisTenev\CS_Advanced\306_Tips&Tricks\obj\Debug\net6.0\306_Tips&Tricks.dll
+C:\Users\z003tyad\source\repos\KrisTenev\CS_Advanced\306_Tips&Tricks\obj\Debug\net6.0\refint\306_Tips&Tricks.dll
+C:\Users\z003tyad\source\repos\KrisTenev\CS_Advanced\306_Tips&Tricks\obj\Debug\net6.0\306_Tips&Tricks.pdb
+C:\Users\z003tyad\source\repos\KrisTenev\CS_Advanced\306_Tips&Tricks\obj\Debug\net6.0\306_Tips&Tricks.genruntimeconfig.cache
+C:\Users\z003tyad\source\repos\KrisTenev\CS_Advanced\306_Tips&Tricks\obj\Debug\net6.0\ref\306_Tips&Tricks.dll
